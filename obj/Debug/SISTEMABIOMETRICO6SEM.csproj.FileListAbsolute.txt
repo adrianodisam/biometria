@@ -1,0 +1,38 @@
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe.config
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.pdb
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csprojResolveAssemblyReference.cache
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form1.resources
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Properties.Resources.resources
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csproj.GenerateResource.Cache
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.exe
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.pdb
+c:\users\samir\documents\visual studio 2015\Projects\SISTEMABIOMETRICO6SEM\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form2.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe.config
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.pdb
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form1.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form2.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Properties.Resources.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.exe
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.pdb
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form3.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form4.resources
+C:\Users\vinic\Downloads\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.frmInicio.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe.config
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.exe
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\SISTEMABIOMETRICO6SEM.pdb
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form1.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form2.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form3.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form4.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.frmInicio.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.exe
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.pdb

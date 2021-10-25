@@ -1,0 +1,28 @@
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form1.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form2.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form3.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form4.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.frmInicio.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.exe.config
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.exe
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.pdb
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.exe
+C:\Users\PICHAU\Desktop\Programa_1\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.pdb
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.exe.config
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.exe
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\bin\Debug\APS_BIOMETRIA_DIGITAL.pdb
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form1.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form2.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form3.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.Form4.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\SISTEMABIOMETRICO6SEM.frmInicio.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.Properties.Resources.resources
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.exe
+C:\Users\adria\Desktop\tarabalhos aps\APS_BIOMETRIA\Programa\SISTEMABIOMETRICO6SEM\obj\Debug\APS_BIOMETRIA_DIGITAL.pdb
